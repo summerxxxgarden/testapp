@@ -73,3 +73,5 @@ df.phone = df.phone.replace(repl,'',regex=True)
 df['phone'] = df['phone'].astype(str)
 df['phone'] = df['phone'].str.replace(r'^7', '')
 df['phone'] = df['phone'].str.replace(r'^8', '')
+
+df
