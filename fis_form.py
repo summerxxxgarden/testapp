@@ -214,6 +214,6 @@ def main():
     print()
     print('Товары перемещены в подборку GiGi')
 
-if st.button('Начать импорт):
+if st.button('Начать импорт'):
      main()
 
