@@ -5,8 +5,8 @@ st.title("Импорт товаров с сайта gigi.ru")
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import os,
-import requests,
+import os
+import requests
 import vk_api
 
 def main():
